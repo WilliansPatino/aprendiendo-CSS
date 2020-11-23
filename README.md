@@ -10,8 +10,8 @@ Aprende CSS3, Maquetación web, Responsive Web Design, SASS, LESS, Flexbox, CSS 
 * Selectores, Fuentes, colores
 * Herramientas para trabajar con CSS3 (Windows)
 ```
-https://picpick.app/en/
-
+[https://picpick.app/en/]
+```
 
 * Fuentes personalizadas en CSS
 
