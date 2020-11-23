@@ -38,3 +38,4 @@ Aprende CSS3, Maquetación web, Responsive Web Design, SASS, LESS, Flexbox, CSS 
   - Posicionamiento de caja.
   	- usando; div, class y section
   	  > Importante: float: left | display: block
+  	- Ventaja del uso de 'clearfix'
