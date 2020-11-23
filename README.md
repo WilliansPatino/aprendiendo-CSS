@@ -1,5 +1,5 @@
 # Info del curso
-Aprende CSS3, Maquetación web, Responsive Web Design, SASS, LESS, Flexbox, CSS Grid Layout y Bootstrap 4 desde cero +20h
+Aprende CSS3, Maquetación web, Responsive Web Design, SASS, LESS, Flexbox, CSS Grid Layout y Bootstrap 4. Duración: +20h
 
 
 ## Bitácora del curso
@@ -9,9 +9,8 @@ Aprende CSS3, Maquetación web, Responsive Web Design, SASS, LESS, Flexbox, CSS 
 * Primeros pasos con CSS
 * Selectores, Fuentes, colores
 * Herramientas para trabajar con CSS3 (Windows)
-
-
-.. https://picpick.app/en/
+```
+https://picpick.app/en/
 
 
 * Fuentes personalizadas en CSS
