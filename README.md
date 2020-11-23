@@ -4,7 +4,7 @@ Aprende CSS3, Maquetación web, Responsive Web Design, SASS, LESS, Flexbox, CSS 
 
 ## Bitácora del curso
 
-### Dia 1: 21.10.2020,		
+### Dia 1: 22.10.2020,		
 * HTML5: Introducción 
 * Primeros pasos con CSS
 * Selectores, Fuentes, colores
@@ -29,3 +29,9 @@ Aprende CSS3, Maquetación web, Responsive Web Design, SASS, LESS, Flexbox, CSS 
       - https://htmlcolors.com/google-color-picker
 
 * Fondos 
+  - Usar imagenes de fondos y patrones
+
+## Dia 2: 23.10.2020
+* Modelo de cajas y posicionamiento de elementos
+  - Margenes, padding, bordes
+  - Posicionamiento de caja y de textos. Floats
