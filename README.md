@@ -12,23 +12,20 @@ Aprende CSS3, Maquetación web, Responsive Web Design, SASS, LESS, Flexbox, CSS 
   https://picpick.app/en/
 
 * Fuentes personalizadas en CSS
-
-* Descargar fonts de Google
-  - https://fonts.google.com/
+  * Descargar fonts de Google
+    - https://fonts.google.com/
     ```
     $ mkdir proyecto/fonts
     $ unzip Charm.zip
     ```
-  * Asociar fuente desde CSS
-
-
-  * Personalizar uso en CSS
+    * Asociar fuente desde CSS
+    * Personalizar uso en CSS
 	
 * Colores en CSS
     * Uso de rgb css generator
-    - https://www.css3maker.com/css-3-rgba.html
+      - https://www.css3maker.com/css-3-rgba.html
 
-* Google color picker
-  - https://htmlcolors.com/google-color-picker
+    * Google color picker
+      - https://htmlcolors.com/google-color-picker
 
 * Fondos 
