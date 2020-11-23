@@ -34,4 +34,7 @@ Aprende CSS3, Maquetación web, Responsive Web Design, SASS, LESS, Flexbox, CSS 
 ## Dia 2: 23.10.2020
 * Modelo de cajas y posicionamiento de elementos
   - Margenes, padding, bordes
-  - Posicionamiento de caja y de textos. Floats
+  	> Importante: Asignar el tamaño apropiado de la caja padre
+  - Posicionamiento de caja.
+  	- usando; div, class y section
+  	- float: left & display: block
