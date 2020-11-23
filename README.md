@@ -41,3 +41,6 @@ Aprende CSS3, Maquetación web, Responsive Web Design, SASS, LESS, Flexbox, CSS 
   	- Ventaja del uso de 'clearfix'
   - Acomodar cajas en un bloque
   	- Agrupar un determinada cantidad de cajas por filas
+* Ejercicio #1: HTML + CSS
+  - Maquetar una página con cabecera, menu y contenedor de cajas
+
