@@ -8,10 +8,8 @@ Aprende CSS3, Maquetación web, Responsive Web Design, SASS, LESS, Flexbox, CSS 
 * HTML5: Introducción 
 * Primeros pasos con CSS
 * Selectores, Fuentes, colores
-* Herramientas para trabajar con CSS3 (Windows)
-```
-[https://picpick.app/en/]
-```
+* Herramientas para trabajar con CSS3 (Disponible para Windows)
+  * [https://picpick.app/en/]
 
 * Fuentes personalizadas en CSS
 
@@ -24,5 +22,6 @@ Aprende CSS3, Maquetación web, Responsive Web Design, SASS, LESS, Flexbox, CSS 
     https://www.css3maker.com/css-3-rgba.html
 
 * Google color picker
+  * https://htmlcolors.com/google-color-picker
 
 * Fondos 
