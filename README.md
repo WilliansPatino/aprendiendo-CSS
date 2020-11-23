@@ -37,4 +37,4 @@ Aprende CSS3, Maquetación web, Responsive Web Design, SASS, LESS, Flexbox, CSS 
   	> Importante: Asignar el tamaño apropiado de la caja padre
   - Posicionamiento de caja.
   	- usando; div, class y section
-  	- float: left & display: block
+  	  > Importante: float: left | display: block
