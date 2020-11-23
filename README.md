@@ -5,15 +5,15 @@
 ##		21.10.2020,		Dia: 1
 
 
-	.	HTML5: Introducción 
+	1.	HTML5: Introducción 
 
-	. 	Primeros pasos con CSS
+	2. 	Primeros pasos con CSS
 
-	. 	Selectores, Fuentes, colores
+	2. 	Selectores, Fuentes, colores
 
-	. 	Herramientas para trabajar con CSS3
+	..* Herramientas para trabajar con CSS3
 
-		https://picpick.app/en/
+	..*	https://picpick.app/en/
 
 
 	o 	Fuentes personalizadas en CSS
