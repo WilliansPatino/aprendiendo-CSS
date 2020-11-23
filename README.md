@@ -16,14 +16,21 @@ Aprende CSS3, Maquetación web, Responsive Web Design, SASS, LESS, Flexbox, CSS 
 * Descargar fonts de Google
   - https://fonts.google.com/
     ```
-    $ mkdir fonts
+    $ mkdir proyecto/fonts
     $ unzip Charm.zip
     ```
-  * Asociar fuente con CSS
-  * Personalizar uso 
+  * Asociar fuente desde CSS
+  	```
+    @font-face {
+    font-family: CharmCustom;
+    src: url(fonts/Charm/Charm-Regular.ttf);
+    }
+	```
+
+  * Personalizar uso en CSS
 	
 * Colores en CSS
-  * Uso de rgb css generator
+    * Uso de rgb css generator
     https://www.css3maker.com/css-3-rgba.html
 
 * Google color picker
