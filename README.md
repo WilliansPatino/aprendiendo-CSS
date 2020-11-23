@@ -2,16 +2,16 @@
 
 
 
-## H2 21.10.2020  - Dia: 1
+##		21.10.2020,		Dia: 1
 
 
-	o 	HTML5: Introducción 
+	.	HTML5: Introducción 
 
-	o 	Primeros pasos con CSS
+	. 	Primeros pasos con CSS
 
-	o 	Selectores, Fuentes, colores
+	. 	Selectores, Fuentes, colores
 
-	o 	Herramientas para trabajar con CSS3
+	. 	Herramientas para trabajar con CSS3
 
 		https://picpick.app/en/
 
