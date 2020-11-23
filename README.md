@@ -8,12 +8,17 @@ Aprende CSS3, Maquetación web, Responsive Web Design, SASS, LESS, Flexbox, CSS 
 * HTML5: Introducción 
 * Primeros pasos con CSS
 * Selectores, Fuentes, colores
-* Herramientas para trabajar con CSS3 (Disponible para Windows)
+  * Herramientas para trabajar con CSS3 (Disponible para Windows)
   https://picpick.app/en/
 
 * Fuentes personalizadas en CSS
 
 * Descargar fonts de Google
+  - https://fonts.google.com/
+    ```
+    $ mkdir fonts
+    $ unzip Charm.zip
+    ```
   * Asociar fuente con CSS
   * Personalizar uso 
 	
