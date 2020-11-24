@@ -53,5 +53,3 @@ Aprende CSS3, Maquetación web, Responsive Web Design, SASS, LESS, Flexbox, CSS 
 ## Dia 3: 24.10.2020
 
 * Pseudoclases en CSS
-
-* 
