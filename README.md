@@ -55,3 +55,13 @@ Aprende CSS3, Maquetación web, Responsive Web Design, SASS, LESS, Flexbox, CSS 
 * Pseudoclases en CSS
 * Transicciones
 * Animaciones
+
+* Proyecto Web Completo: HTML5 y CSS3
+	> Maquetación completa
+  - Maquetación de la cabecera
+  	- Herramienta recomendada por el profesor:
+  	  - Extension firefox: 'Web Developer' 
+  	  	> Ayuda a obtener medidas en pixeles de secciones de la página
+  	  	> ( Acceso: Miscelaneous/Display Ruler )
+  	- Barra de navegación: menú, submenues
+  	- Barra lateral;  contenido, Formularios
